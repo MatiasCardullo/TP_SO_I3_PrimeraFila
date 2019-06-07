@@ -1,2 +1,7 @@
 Ricardo Ezequiel Linares Galvan Araujo - 192.168.2.135 - 11:00
+<<<<<<< HEAD
 Franco Nahuel Amarilla Godoy - 192.168.2.199 - 11:07
+=======
+Franco Nahuel Amarilla Godoy - 192.168.2.199 - 11:23
+Matias Cardullo - 192.168.2.196 - 10:50
+>>>>>>> 90bd22ba6234a6fabd7894c5f031c65492d405ac
